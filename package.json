@@ -1,6 +1,6 @@
 {
   "name": "array-multi-find",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find multiple elements in an array",
   "license": "MIT",
   "repository": "SamVerschueren/array-multi-find",
