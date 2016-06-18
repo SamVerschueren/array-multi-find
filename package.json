@@ -1,0 +1,39 @@
+{
+  "name": "array-multi-find",
+  "version": "0.0.0",
+  "description": "Find multiple elements in an array",
+  "license": "MIT",
+  "repository": "SamVerschueren/array-multi-find",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "clinton && xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array",
+    "find",
+    "multi",
+    "multifind",
+    "cross",
+    "crossfind",
+    "indexOf"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "clinton": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
